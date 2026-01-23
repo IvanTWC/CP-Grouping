@@ -8,6 +8,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 283,
 		"status": "ACTIVE"
 	},
@@ -20,6 +22,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 335,
 		"status": "ACTIVE"
 	},
@@ -32,6 +36,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 231,
 		"status": "ACTIVE"
 	},
@@ -44,6 +50,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 66,
 		"status": "ACTIVE"
 	},
@@ -56,6 +64,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 288,
 		"status": "ACTIVE"
 	},
@@ -68,6 +78,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 868,
 		"status": "ACTIVE"
 	},
@@ -80,6 +92,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 439,
 		"status": "ACTIVE"
 	},
@@ -93,6 +107,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 459,
 		"status": "ACTIVE"
 	},
@@ -105,6 +121,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 325,
 		"status": "ACTIVE"
 	},
@@ -117,6 +135,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 362,
 		"status": "ACTIVE"
 	},
@@ -129,6 +149,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 362,
 		"status": "ACTIVE"
 	},
@@ -141,6 +163,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 81,
 		"status": "ACTIVE"
 	},
@@ -153,6 +177,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 394,
 		"status": "ACTIVE"
 	},
@@ -165,6 +191,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 574,
 		"status": "INACTIVE"
 	},
@@ -177,6 +205,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 370,
 		"status": "ACTIVE"
 	},
@@ -189,6 +219,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 156,
 		"status": "ACTIVE"
 	},
@@ -201,6 +233,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 90,
 		"status": "ACTIVE"
 	},
@@ -213,6 +247,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 78,
 		"status": "ACTIVE"
 	},
@@ -225,6 +261,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 158,
 		"status": "ACTIVE"
 	},
@@ -237,6 +275,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 14,
 		"status": "ACTIVE"
 	},
@@ -249,6 +289,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 21,
 		"status": "ACTIVE"
 	},
@@ -261,6 +303,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 327,
 		"status": "ACTIVE"
 	},
@@ -273,6 +317,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 54,
 		"status": "ACTIVE"
 	},
@@ -285,6 +331,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 365,
 		"status": "ACTIVE"
 	},
@@ -297,6 +345,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 467,
 		"status": "ACTIVE"
 	},
@@ -309,6 +359,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 334,
 		"status": "ACTIVE"
 	},
@@ -321,6 +373,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 156,
 		"status": "ACTIVE"
 	},
@@ -333,6 +387,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 1012,
 		"status": "ACTIVE"
 	},
@@ -345,6 +401,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 375,
 		"status": "ACTIVE"
 	},
@@ -357,6 +415,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 104,
 		"status": "INACTIVE"
 	},
@@ -369,6 +429,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 395,
 		"status": "ACTIVE"
 	},
@@ -382,6 +444,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 114,
 		"status": "INACTIVE"
 	},
@@ -394,6 +458,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 78,
 		"status": "ACTIVE"
 	},
@@ -406,6 +472,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 371,
 		"status": "ACTIVE"
 	},
@@ -418,6 +486,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 115,
 		"status": "INACTIVE"
 	},
@@ -430,6 +500,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 249,
 		"status": "ACTIVE"
 	},
@@ -442,6 +514,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 189,
 		"status": "ACTIVE"
 	},
@@ -454,6 +528,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 403,
 		"status": "INACTIVE"
 	},
@@ -466,6 +542,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 166,
 		"status": "ACTIVE"
 	},
@@ -478,6 +556,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 118,
 		"status": "ACTIVE"
 	},
@@ -491,6 +571,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 256,
 		"status": "ACTIVE"
 	},
@@ -503,6 +585,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 235,
 		"status": "ACTIVE"
 	},
@@ -515,6 +599,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 429,
 		"status": "ACTIVE"
 	},
@@ -527,6 +613,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 686,
 		"status": "ACTIVE"
 	},
@@ -540,6 +628,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 309,
 		"status": "INACTIVE"
 	},
@@ -552,6 +642,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 262,
 		"status": "ACTIVE"
 	},
@@ -564,6 +656,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 376,
 		"status": "ACTIVE"
 	},
@@ -576,6 +670,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 506,
 		"status": "ACTIVE"
 	},
@@ -589,6 +685,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 692,
 		"status": "ACTIVE"
 	},
@@ -601,6 +699,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 648,
 		"status": "ACTIVE"
 	},
@@ -613,6 +713,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 672,
 		"status": "ACTIVE"
 	},
@@ -625,6 +727,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 477,
 		"status": "ACTIVE"
 	},
@@ -637,6 +741,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 1214,
 		"status": "ACTIVE"
 	},
@@ -649,6 +755,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 716,
 		"status": "ACTIVE"
 	},
@@ -661,6 +769,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 89,
 		"status": "ACTIVE"
 	},
@@ -673,6 +783,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 1386,
 		"status": "ACTIVE"
 	},
@@ -687,6 +799,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 1696,
 		"status": "ACTIVE"
 	},
@@ -699,6 +813,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 999,
 		"status": "ACTIVE"
 	},
@@ -711,6 +827,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 999,
 		"status": "ACTIVE"
 	},
@@ -723,6 +841,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 64,
 		"status": "ACTIVE"
 	},
@@ -735,6 +855,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 100,
 		"status": "ACTIVE"
 	},
@@ -747,6 +869,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 370,
 		"status": "ACTIVE"
 	},
@@ -760,6 +884,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 100,
 		"status": "INACTIVE"
 	},
@@ -772,6 +898,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 509,
 		"status": "ACTIVE"
 	},
@@ -784,6 +912,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 721,
 		"status": "ACTIVE"
 	},
@@ -796,6 +926,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 100,
 		"status": "ACTIVE"
 	},
@@ -808,6 +940,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 100,
 		"status": "ACTIVE"
 	},
@@ -820,6 +954,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 201,
 		"status": "ACTIVE"
 	},
@@ -832,6 +968,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 100,
 		"status": "ACTIVE"
 	},
@@ -844,6 +982,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 100,
 		"status": "ACTIVE"
 	},
@@ -856,6 +996,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 100,
 		"status": "ACTIVE"
 	},
@@ -868,20 +1010,24 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 155,
 		"status": "ACTIVE"
 	},
 	"DBKU002": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_024",
+		"pass_group_code": "SP_KCH_DBKU_059",
 		"name": "Jalan Semarak / Jalan Matang (Upwell, Bemmers, Jabatan Pendaftaran Negara)",
 		"lat": "1.5616360",
 		"lng": "110.3190474",
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 354,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU003": {
 		"council_code": "KCH_DBKU",
@@ -892,6 +1038,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 726,
 		"status": "ACTIVE"
 	},
@@ -904,18 +1052,22 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 201,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU005": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_052",
+		"pass_group_code": "SP_KCH_DBKU_057",
 		"name": "Jalan Kulas / Satok (Agro Bank / Kaya & Toast / Al-Idrus Commercial Center)",
 		"lat": "1.553751",
 		"lng": "110.332593",
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 1198,
 		"status": "ACTIVE"
 	},
@@ -923,15 +1075,17 @@
 	"DBKU007": {},
 	"DBKU008": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_004",
+		"pass_group_code": "SP_KCH_DBKU_061",
 		"name": "Jalan Satok / Rubber",
 		"lat": "1.552229",
 		"lng": "110.334130",
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 1027,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU009": {
 		"council_code": "KCH_DBKU",
@@ -942,6 +1096,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 837,
 		"status": "ACTIVE"
 	},
@@ -954,6 +1110,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 189,
 		"status": "ACTIVE"
 	},
@@ -966,6 +1124,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 318,
 		"status": "ACTIVE"
 	},
@@ -978,6 +1138,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 398,
 		"status": "ACTIVE"
 	},
@@ -990,20 +1152,24 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 150,
 		"status": "ACTIVE"
 	},
 	"DBKU014": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_045",
+		"pass_group_code": "SP_KCH_DBKU_060",
 		"name": "Jalan Tun Ahmad Zaidi Adruce (Forda)",
 		"lat": "1.536824",
 		"lng": "110.336486",
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 185,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU015": {
 		"council_code": "KCH_DBKU",
@@ -1014,6 +1180,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 464,
 		"status": "ACTIVE"
 	},
@@ -1026,6 +1194,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 145,
 		"status": "ACTIVE"
 	},
@@ -1038,6 +1208,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 188,
 		"status": "ACTIVE"
 	},
@@ -1050,6 +1222,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 75,
 		"status": "ACTIVE"
 	},
@@ -1062,6 +1236,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 179,
 		"status": "ACTIVE"
 	},
@@ -1074,6 +1250,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 999,
 		"status": "ACTIVE"
 	},
@@ -1086,6 +1264,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 999,
 		"status": "ACTIVE"
 	},
@@ -1098,8 +1278,10 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 14,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU023": {
 		"council_code": "KCH_DBKU",
@@ -1110,6 +1292,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 109,
 		"status": "ACTIVE"
 	},
@@ -1122,6 +1306,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 999,
 		"status": "ACTIVE"
 	},
@@ -1134,6 +1320,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 999,
 		"status": "ACTIVE"
 	},
@@ -1146,34 +1334,40 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 999,
 		"status": "ACTIVE"
 	},
 	"DBKU027": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_034",
+		"pass_group_code": "SP_KCH_DBKU_058",
 		"name": "Jalan Satok (Wisma Lim Kim Soon)",
 		"lat": "1.553185",
 		"lng": "110.330067",
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 73,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU028": {},
 	"DBKU029": {},
 	"DBKU030": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_020",
+		"pass_group_code": "SP_KCH_DBKU_058",
 		"name": "Jalan Green (Bernas / Smart Reader)",
 		"lat": "1.549752",
 		"lng": "110.321859",
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 116,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU031": {},
 	"DBKU032": {
@@ -1185,20 +1379,24 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 200,
 		"status": "ACTIVE"
 	},
 	"DBKU033": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_046",
+		"pass_group_code": "SP_KCH_DBKU_060",
 		"name": "Jalan Sungai Maong Ulu (Kesihatan)",
 		"lat": "1.534060",
 		"lng": "110.336547",
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 200,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU034": {
 		"council_code": "KCH_DBKU",
@@ -1209,6 +1407,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 24,
 		"status": "ACTIVE"
 	},
@@ -1221,32 +1421,38 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 72,
 		"status": "ACTIVE"
 	},
 	"DBKU036": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_003",
+		"pass_group_code": "SP_KCH_DBKU_061",
 		"name": "Jalan Rubber (Klinik Harmon Rithom)",
 		"lat": "1.551927",
 		"lng": "110.333911",
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 100,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU037": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_005",
+		"pass_group_code": "SP_KCH_DBKU_061",
 		"name": "Jalan Satok (Hartz Chicken)",
 		"lat": "1.552965",
 		"lng": "110.333767",
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 189,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU038": {
 		"council_code": "KCH_DBKU",
@@ -1257,44 +1463,52 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 189,
 		"status": "ACTIVE"
 	},
 	"DBKU039": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_008",
+		"pass_group_code": "SP_KCH_DBKU_057",
 		"name": "Jalan Kulas (Wisma Ung Hwa Geok) GN",
 		"lat": "1.554477",
 		"lng": "110.336562",
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 100,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU040": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_009",
+		"pass_group_code": "SP_KCH_DBKU_057",
 		"name": "Jalan Kulas (Back Lane / RHB Bank)",
 		"lat": "1.554411",
 		"lng": "110.332291",
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 201,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU041": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_012",
+		"pass_group_code": "SP_KCH_DBKU_057",
 		"name": "Jalan Kulas (Bangunan Tunku Muhammad Al Idrus)",
 		"lat": "1.554298",
 		"lng": "110.335427",
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 500,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU042": {},
 	"DBKU043": {
@@ -1306,23 +1520,27 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 100,
 		"status": "ACTIVE"
 	},
 	"DBKU044": {},
-	"DBKU045": {},
+	"DBKU045": {},	
 	"DBKU046": {},
 	"DBKU047": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_031",
+		"pass_group_code": "SP_KCH_DBKU_058",
 		"name": "Jalan Green (Bangunan Sandhu)",
 		"lat": "1.551706",
 		"lng": "110.330485",
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 100,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU048": {},
 	"DBKU049": {
@@ -1334,8 +1552,10 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 100,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU050": {
 		"council_code": "KCH_DBKU",
@@ -1346,6 +1566,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 100,
 		"status": "INACTIVE"
 	},
@@ -1358,6 +1580,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 313,
 		"status": "ACTIVE"
 	},
@@ -1370,6 +1594,8 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 249,
 		"status": "ACTIVE"
 	},
@@ -1382,19 +1608,135 @@
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 249,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU054": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_055",
+		"pass_group_code": "SP_KCH_DBKU_059",
 		"name": "Jalan Semarak (Kedai Adie, PJ Farmasi)",
 		"lat": "1.565479",
 		"lng": "110.318190",
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
 		"total_parking_spaces": 89,
+		"status": "INACTIVE"
+	},
+	"DBKU055": {
+		"council_code": "KCH_DBKU",
+		"pass_group_code": "SP_KCH_DBKU_056",
+		"name": "Jalan Haji Taha (Unaco)",
+		"lat": "1.556529",
+		"lng": "110.338766",
+		"contact_number": "",
+		"img_arr": [],
+		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
+		"total_parking_spaces": 249,
+		"status": "ACTIVE"
+	},
+	"DBKU056": {
+		"council_code": "KCH_DBKU",
+		"pass_group_code": "SP_KCH_DBKU_057",
+		"name": "Jalan Kulas (RHB Bank / Bangunan Tunku Muhammad Al Idrus / Wisma Ung Hwa Geok)",
+		"lat": "1.554479",
+		"lng": "110.335418",
+		"contact_number": "",
+		"img_arr": [],
+		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
+		"total_parking_spaces": 801,
+		"status": "ACTIVE"
+	},
+	"DBKU057": {
+		"council_code": "KCH_DBKU",
+		"pass_group_code": "SP_KCH_DBKU_058",
+		"name": "Jalan Green (Bangunan Sandhu / Smart Reader) / Jalan Satok (Wisma Lim Kim Soon)",
+		"lat": "1.552357",
+		"lng": "110.330224",
+		"contact_number": "",
+		"img_arr": [],
+		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
+		"total_parking_spaces": 289,
+		"status": "ACTIVE"
+	},
+	"DBKU058": {
+		"council_code": "KCH_DBKU",
+		"pass_group_code": null,
+        "name": "Sg. Maong Ulu (Power Cool Car Air-cond)",
+        "lat": "1.533923",
+		"lng": "110.336534",
+		"contact_number": "",
+		"img_arr": [],
+		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
+		"total_parking_spaces": 23,
+		"status": "ACTIVE"
+    },
+    "DBKU059": {
+		"council_code": "KCH_DBKU",
+		"pass_group_code": null,
+        "name": "Jalan Tabuan (Borneo Hotel)",
+        "lat": "1.554385",
+		"lng": "110.348347",
+		"contact_number": "",
+		"img_arr": [],
+		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
+		"total_parking_spaces": 11,
+		"status": "ACTIVE"
+    },
+	"DBKU060": {
+		"council_code": "KCH_DBKU",
+		"pass_group_code": "SP_KCH_DBKU_059",
+		"name": "Jalan Semarak (Bemmers / Kedai Adie, PJ Farmasi) / Jalan Matang (Upwell)",
+		"lat": "1.556256",
+		"lng": "110.349021",
+		"contact_number": "",
+		"img_arr": [],
+		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
+		"total_parking_spaces": 354,
+		"status": "ACTIVE"
+	},
+	"DBKU061": {
+		"council_code": "KCH_DBKU",
+		"pass_group_code": "SP_KCH_DBKU_060",
+		"name": "Jalan Tun Ahmad Zaidi Adruce (Forda) / Jalan Sungai Maong Ulu (Kesihatan)",
+		"lat": "1.536617",
+		"lng": "110.336758",
+		"contact_number": "",
+		"img_arr": [],
+		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
+		"total_parking_spaces": 385,
+		"status": "ACTIVE"
+	},
+	"DBKU062": {
+		"council_code": "KCH_DBKU",
+		"pass_group_code": "SP_KCH_DBKU_061",
+		"name": "Jalan Satok / Rubber (Hartz Chicken / Klinik Harmon Rithom)",
+		"lat": "1.552173",
+		"lng": "110.335482",
+		"contact_number": "",
+		"img_arr": [],
+		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility" : true,
+		"total_parking_spaces": 1316,
 		"status": "ACTIVE"
 	}
 }
