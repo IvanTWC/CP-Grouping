@@ -1,0 +1,32 @@
+05_location
+- Added "allow_compound" & "customer_visibility" field
+- Changed name for DBKU057
+- Updated "pass_group_code" for removed groupings in "season_pass_group & group_location" file:
+  - DBKU002 -> Updated to "SP_KCH_DBKU_055"
+  - DBKU008 -> Updated to "SP_KCH_DBKU_005"
+  - DBKU014 -> Updated to "SP_KCH_DBKU_046"
+  - DBKU033 -> Updated to 'SP_KCH_DBKU_046"
+  - DBKU027 -> Updated to "SP_KCH_DBKU_054"
+  - DBKU030 -> Updated to "SP_KCH_DBKU_054"
+  - DBKU036 -> Updated to "SP_KCH_DBKU_005"
+  - DBKU037 -. Updated to "SP_KCH_DBKU_005"
+  - DBKU039 -> Updated to "SP_KCH_DBKU_052"
+  - DBKU040 -> Updated to "SP_KCH_DBKU_052"
+  - DBKU041 -> Updated to "SP_KCH_DBKU_052"
+  - DBKU047 -> Updated to "SP_KCH_DBKU_054"
+  - DBKU054 -> Updated to "SP_KCH_DBKU_055"
+  - DBKU056 -> Updated to "SP_KCH_DBKU_052"
+  - DBKU057 -> Updated to "SP_KCH_DBKU_054"
+  - DBKU060 -> Updated to "SP_KCH_DBKU_055"
+  - DBKU061 -> Updated to "SP_KCH_DBKU_046"
+  - DBKU062 -> Updated to "SP_KCH_DBKU_005"
+
+
+season_pass_group & group_location
+- Revert grouping changes DBKU058 - DBKU061 in group_location
+- Removed grouping and updated status DBKU024 & DBKU055 back to active in season_pass_group: 
+  - DBKU057 -> Removed season_pass_group
+  - DBKU024 -> Updated status to Active 
+  - DBKU025 -> Updated status to Active 
+  - DBKU034 -> Updated status to Active
+

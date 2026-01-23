@@ -1,0 +1,47 @@
+05_location update
+DBKU002 -> status changed to inactive, new grouping
+DBKU004 -> status changed to inactive, location not in use
+DBKU008 -> status changed to inactive, new grouping
+DBKU014 -> status changed to inactive, new grouping
+DBKU022 -> status changed to inactive, no more parking lot
+DBKU027 -> status changed to inactive, new grouping
+DBKU030 -> status changed to inactive, new grouping
+DBKU033 -> status changed to inactive, new grouping
+DBKU036 -> status changed to inactive, new grouping
+DBKU037 -> status changed to inactive, new grouping
+DBKU039 -> status changed to inactive, new grouping
+DBKU040 -> status changed to inactive, new grouping
+DBKU041 -> status changed to inactive, new grouping
+DBKU047 -> status changed to inactive, new grouping
+DBKU049 -> status changed to inactive, duplicated location
+DBKU053 -> status changed to inactive, no more parking lot
+DBKU054 -> status changed to inactive, new grouping
+DBKU055 -> new location added
+DBKU056 -> new group added
+DBKU057 -> new group added
+DBKU058 -> new location added
+DBKU059 -> new location added
+DBKU060 -> new group added
+DBKU061 -> new group added
+DBKU062 -> new group added 
+
+
+06_location update:
+- Jalan Green (Sandhu & Bernas / Smart Reader, Wisma Lim Kim Soon) -> combine into one zone
+- Jalan Kulas ( RHB, Al-idrus, Wisma Ung Hwa Geok) -> combine into one zone
+- Jalan Semarak (Bemmers , Kedai Adie) / Jalan Matang (Upwell) -> combine into one zone
+- Sg. Maong ulu (20+ parking lot) -> add new location
+- Jalan Tabuan (11 parking lot)-> add new location
+- Jalan Kulas - status changed to inactive, no longer in use
+- Jalan P. Ramlee (Stamford College) - status changed to inactive, no longer in use
+- Jalan Green - status changed to inactive, duplicated zone
+- Jalan Satok / Rubber (Satok - Hartz Chicken, Rubber - Klinik Harmon Rithom) -> combine into one zone
+- Jalan Tun Ahmad Zaidi Adruce (Forda), Jalan Sungai Maong Ulu (Kesihatan) -> combime into one zone
+
+season_pass_group_location & group_location update:
+- Jalan P. Ramlee (Stamford College) -> status changed to inactive, no more parking lot
+- Jalan Semarak (Kedai Adie, PJ Farmasi), Jalan Semarak / Jalan Matang (Upwell, Bemmers, Jabatan Pendaftaran Negara) -> combine as Jalan Semarak (Kedai Adie, PJ Pharmacy / Bemmers / Jalan Matang (Upwell)
+- Jalan Kulas ( Back Lane, Al Idrus, Ung Hwa Geok) - Create new group
+- Jalan Green ( Sandhu, Smart Reader, Lim Kim Soon) - Create new group
+- Jalan Haji Taha (Unaco) - Seperate section from P. Ramlee / Haji Taha
+
