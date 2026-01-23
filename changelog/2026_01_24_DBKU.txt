@@ -1,0 +1,53 @@
+05_location
+- Updated coordinates:
+  - DBKU001
+- Updated pass_group_code:
+  - DBKU005 -> SP_KCH_DBKU_052
+  - DBKU010 -> SP_KCH_DBKU_063
+  - DBKU011 -> SP_KCH_DBKU_062
+  - DBKU049 -> SP_KCH_DBKU_062
+  - DBKU050 -> SP_KCH_DBKU_062
+  - DBKU055 -> SP_KCH_DBKU_066
+
+
+group_location
+- Updated name:
+  - SP_KCH_DBKU_027 -> Jalan Sg Maong Hilir (Pasar Penjaja)
+  - SP_KCH_DBKU_052 ->  -> Jalan Kulas / Satok (Agro Bank / Kaya & Toast / Al-Idrus Commercial Center)
+- Updated coordinates:
+  - SP_KCH_DBKU_029
+  - SP_KCH_DBKU_052
+- Added new group
+  - SP_KCH_DBKU_062 -> Jalan Green / Gold Jade / Sg Maong Hilir
+  - SP_KCH_DBKU_063 -> Jalan Satok (Satok Parade / Bangunan PTBS / Pollarwood / Zecon)
+
+season_pass_location
+- Updated status:
+ - SP_KCH_DBKU_003 -> Updated to inactive
+ - SP_KCH_DBKU_004 -> Updated to inactive
+ - SP_KCH_DBKU_005 -> Updated to inactive
+ - SP_KCH_DBKU_008 -> Updated to inactive
+ - SP_KCH_DBKU_009 -> Updated to inactive
+ - SP_KCH_DBKU_012 -> Updated to inactive
+ - SP_KCH_DBKU_013 -> Updated to inactive
+ - SP_KCH_DBKU_021 -> Updated to inactive
+ - SP_KCH_DBKU_022 -> Updated to inactive
+ - SP_KCH_DBKU_024 -> Updated to inactive
+ - SP_KCH_DBKU_025 -> Updated to inactive
+ - SP_KCH_DBKU_031 -> Updated to inactive
+ - SP_KCH_DBKU_034 -> Updated to inactive
+ - SP_KCH_DBKU_045 -> Updated to inactive
+ - SP_KCH_DBKU_046 -> Updated to inactive
+ - SP_KCH_DBKU_048 -> Updated to inactive
+ - SP_KCH_DBKU_054 -> Updated to inactive
+ - SP_KCH_DBKU_055 -> Updated to inactive
+- Updated name:
+  - SP_KCH_DBKU_027 -> Jalan Sg Maong Hilir (Pasar Penjaja)
+  - SP_KCH_DBKU_052 -> Jalan Kulas / Satok (Agro Bank / Kaya & Toast / Al-Idrus Commercial Center)
+- Updated coordinates:
+  - SP_KCH_DBKU_061
+- Updated available parking space:
+  - SP_KKCH_DBKU_052
+-> New groups added:
+  - SP_KKCH_DBKU_062 -> Jalan Green / Gold Jade / Sg Maong Hilir
+  - SP_KKCH_DBKU_063 -> Jalan Satok (Satok Parade / Bangunan PTBS / Pollarwood / Zecon)

@@ -1005,8 +1005,8 @@
 		"council_code": "KCH_DBKU",
 		"pass_group_code": "SP_KCH_DBKU_029",
 		"name": "Jalan Astana",
-		"lat": "1.572868",
-		"lng": "110.338340",
+		"lat": "1.573082",
+		"lng": "110.338244",
 		"contact_number": "",
 		"img_arr": [],
 		"self_parking_rate": false,
@@ -1059,7 +1059,7 @@
 	},
 	"DBKU005": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_057",
+		"pass_group_code": "SP_KCH_DBKU_052",
 		"name": "Jalan Kulas / Satok (Agro Bank / Kaya & Toast / Al-Idrus Commercial Center)",
 		"lat": "1.553751",
 		"lng": "110.332593",
@@ -1103,7 +1103,7 @@
 	},
 	"DBKU010": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_013",
+		"pass_group_code": "SP_KCH_DBKU_063",
 		"name": "Jalan Satok (Satok Parade / Bangunan PTBS / Pollarwood / Zecon)",
 		"lat": "1.553904",
 		"lng": "110.328834",
@@ -1117,7 +1117,7 @@
 	},
 	"DBKU011": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_048",
+		"pass_group_code": "SP_KCH_DBKU_062",
 		"name": "Jalan Green / Jalan Gold Jade / Sg Maong Hilir",
 		"lat": "1.545267",
 		"lng": "110.331867",
@@ -1545,7 +1545,7 @@
 	"DBKU048": {},
 	"DBKU049": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_054",
+		"pass_group_code": "SP_KCH_DBKU_062",
 		"name": "Jalan Green",
 		"lat": "1.543105",
 		"lng": "110.332510",
@@ -1559,7 +1559,7 @@
 	},
 	"DBKU050": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_048",
+		"pass_group_code": "SP_KCH_DBKU_062",
 		"name": "Jalan Gold Jade",
 		"lat": "1.545176",
 		"lng": "110.331038",
@@ -1629,7 +1629,7 @@
 	},
 	"DBKU055": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_056",
+		"pass_group_code": "SP_KCH_DBKU_006",
 		"name": "Jalan Haji Taha (Unaco)",
 		"lat": "1.556529",
 		"lng": "110.338766",

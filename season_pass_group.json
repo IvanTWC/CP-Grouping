@@ -1586,7 +1586,7 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "ACTIVE"
+        "status": "INACTIVE"
     },
     "SP_KCH_DBKU_004": {
         "council_code": "KCH_DBKU",
@@ -1604,7 +1604,7 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "ACTIVE"
+        "status": "INACTIVE"
     },
     "SP_KCH_DBKU_005": {
         "council_code": "KCH_DBKU",
@@ -1622,7 +1622,7 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "ACTIVE"
+        "status": "INACTIVE"
     },
     "SP_KCH_DBKU_006": {
         "council_code": "KCH_DBKU",
@@ -1676,7 +1676,7 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "ACTIVE"
+        "status": "INACTIVE"
     },
     "SP_KCH_DBKU_009": {
         "council_code": "KCH_DBKU",
@@ -1694,7 +1694,7 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "ACTIVE"
+        "status": "INACTIVE"
     },
     "SP_KCH_DBKU_010": {
         "council_code": "KCH_DBKU",
@@ -1748,7 +1748,7 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "ACTIVE"
+        "status": "INACTIVE"
     },
     "SP_KCH_DBKU_013": {
         "council_code": "KCH_DBKU",
@@ -1766,7 +1766,7 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "ACTIVE"
+        "status": "INACTIVE"
     },
     "SP_KCH_DBKU_014": {
         "council_code": "KCH_DBKU",
@@ -1910,7 +1910,7 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "ACTIVE"
+        "status": "INACTIVE"
     },
     "SP_KCH_DBKU_022": {
         "council_code": "KCH_DBKU",
@@ -1928,7 +1928,7 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "ACTIVE"
+        "status": "INACTIVE"
     },
     "SP_KCH_DBKU_023": {
         "council_code": "KCH_DBKU",
@@ -1964,7 +1964,7 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "ACTIVE"
+        "status": "INACTIVE"
     },
     "SP_KCH_DBKU_025": {
         "council_code": "KCH_DBKU",
@@ -1982,7 +1982,7 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "ACTIVE"
+        "status": "INACTIVE"
     },
     "SP_KCH_DBKU_026": {
         "council_code": "KCH_DBKU",
@@ -2000,11 +2000,11 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "ACTIVE"
+        "status": "INACTIVE"
     },
     "SP_KCH_DBKU_027": {
         "council_code": "KCH_DBKU",
-        "name": "Jalan Sg Maong Hilir",
+        "name": "Jalan Sg Maong Hilir (Pasar Penjaja)",
         "lat": "1.541692",
         "lng": "110.315455",
         "tax_rate": 0.06,
@@ -2090,7 +2090,7 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "ACTIVE"
+        "status": "INACTIVE"
     },
     "SP_KCH_DBKU_032": {
         "council_code": "KCH_DBKU",
@@ -2144,7 +2144,7 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "ACTIVE"
+        "status": "INACTIVE"
     },
     "SP_KCH_DBKU_035": {
         "council_code": "KCH_DBKU",
@@ -2274,7 +2274,7 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "ACTIVE"
+        "status": "INACTIVE"
     },
     "SP_KCH_DBKU_046": {
         "council_code": "KCH_DBKU",
@@ -2292,7 +2292,7 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "ACTIVE"
+        "status": "INACTIVE"
     },
     "SP_KCH_DBKU_047": {
         "council_code": "KCH_DBKU",
@@ -2328,7 +2328,7 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "ACTIVE"
+        "status": "INACTIVE"
     },
     "SP_KCH_DBKU_049": {
         "council_code": "KCH_DBKU",
@@ -2386,13 +2386,13 @@
     },
     "SP_KCH_DBKU_052": {
         "council_code": "KCH_DBKU",
-        "name": "Jalan Satok (Al-Idrus Commercial Center / Bank Rakyat)",
+        "name": "Jalan Kulas / Satok (Agro Bank / Kaya & Toast / Al-Idrus Commercial Center)",
         "lat": "1.554428",
         "lng": "110.332078",
         "tax_rate": 0.06,
-        "total_parking_spaces": 845,
-        "max_pass_offline": 422,
-        "max_pass_online": 422,
+        "total_parking_spaces": 1198,
+        "max_pass_offline": 554,
+        "max_pass_online": 554,
         "full_price": 40.0,
         "half_price": 20.0,
         "transfer_fee": 5.0,
@@ -2436,7 +2436,7 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "ACTIVE"
+        "status": "INACTIVE"
     },
     "SP_KCH_DBKU_055": {
         "council_code": "KCH_DBKU",
@@ -2454,7 +2454,7 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "ACTIVE"
+        "status": "INACTIVE"
     },
     "SP_KCH_DBKU_056": {
         "council_code": "KCH_DBKU",
@@ -2549,12 +2549,48 @@
     "SP_KCH_DBKU_061": {
         "council_code": "KCH_DBKU",
         "name": "Jalan Satok / Rubber (Hartz Chicken / Klinik Harmon Rithom)",
-        "lat": "1.536665, 110.336777",
-        "lng": "1.536665, 110.336777",
+        "lat": "1.552190",
+        "lng": "110.335510",
         "tax_rate": 0.06,
         "total_parking_spaces": 1316,
         "max_pass_offline": 657,
         "max_pass_online": 657,
+        "full_price": 40.0,
+        "half_price": 20.0,
+        "transfer_fee": 5.0,
+        "date_allow_purchase": "25",
+        "date_allow_purchase_str": "25th",
+        "date_allow_purchase_half_price": "15",
+        "date_allow_refund": "15",
+        "status": "ACTIVE"
+    },
+    "SP_KCH_DBKU_062": {
+        "council_code": "KCH_DBKU",
+        "name": "Jalan Green / Gold Jade / Sg Maong Hilir",
+        "lat": "1.545053",
+        "lng": "110.331654",
+        "tax_rate": 0.06,
+        "total_parking_spaces": 318,
+        "max_pass_offline": 159,
+        "max_pass_online": 159,
+        "full_price": 40.0,
+        "half_price": 20.0,
+        "transfer_fee": 5.0,
+        "date_allow_purchase": "25",
+        "date_allow_purchase_str": "25th",
+        "date_allow_purchase_half_price": "15",
+        "date_allow_refund": "15",
+        "status": "ACTIVE"
+    },
+    "SP_KCH_DBKU_063": {
+        "council_code": "KCH_DBKU",
+        "name": "Jalan Satok (Satok Parade / Bangunan PTBS / Pollarwood / Zecon)",
+        "lat": "1.553930",
+        "lng": "110.328989",
+        "tax_rate": 0.06,
+        "total_parking_spaces": 789,
+        "max_pass_offline": 394,
+        "max_pass_online": 394,
         "full_price": 40.0,
         "half_price": 20.0,
         "transfer_fee": 5.0,
