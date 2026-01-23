@@ -1,3 +1,4 @@
+<?php 
 $list = [
             "SP_KCH_MBKS_084" => ["SP_KCH_MBKS_084", "SP_KCH_MBKS_046", "SP_KCH_MBKS_047"],
             "SP_KCH_MBKS_083" => ["SP_KCH_MBKS_083", "SP_KCH_MBKS_063", "SP_KCH_MBKS_064"],
@@ -33,3 +34,4 @@ $list = [
             "SP_KCH_DBKU_060" => ["SP_KCH_DBKU_060", "SP_KCH_DBKU_045", "SP_KCH_DBKU_046"],
             "SP_KCH_DBKU_061" => ["SP_KCH_DBKU_061", "SP_KCH_DBKU_003", "SP_KCH_DBKU_004", "SP_KCH_DBKU_005"],
         ];
+?>
