@@ -1017,7 +1017,7 @@
 	},
 	"DBKU002": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_059",
+		"pass_group_code": "SP_KCH_DBKU_024",
 		"name": "Jalan Semarak / Jalan Matang (Upwell, Bemmers, Jabatan Pendaftaran Negara)",
 		"lat": "1.5616360",
 		"lng": "110.3190474",
@@ -1027,7 +1027,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 354,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU003": {
 		"council_code": "KCH_DBKU",
@@ -1075,7 +1075,7 @@
 	"DBKU007": {},
 	"DBKU008": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_061",
+		"pass_group_code": "SP_KCH_DBKU_004",
 		"name": "Jalan Satok / Rubber",
 		"lat": "1.552229",
 		"lng": "110.334130",
@@ -1085,7 +1085,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 1027,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU009": {
 		"council_code": "KCH_DBKU",
@@ -1103,7 +1103,7 @@
 	},
 	"DBKU010": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_063",
+		"pass_group_code": "SP_KCH_DBKU_013",
 		"name": "Jalan Satok (Satok Parade / Bangunan PTBS / Pollarwood / Zecon)",
 		"lat": "1.553904",
 		"lng": "110.328834",
@@ -1117,7 +1117,7 @@
 	},
 	"DBKU011": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_062",
+		"pass_group_code": "SP_KCH_DBKU_054",
 		"name": "Jalan Green / Jalan Gold Jade / Sg Maong Hilir",
 		"lat": "1.545267",
 		"lng": "110.331867",
@@ -1159,7 +1159,7 @@
 	},
 	"DBKU014": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_060",
+		"pass_group_code": "SP_KCH_DBKU_045",
 		"name": "Jalan Tun Ahmad Zaidi Adruce (Forda)",
 		"lat": "1.536824",
 		"lng": "110.336486",
@@ -1169,7 +1169,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 185,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU015": {
 		"council_code": "KCH_DBKU",
@@ -1341,7 +1341,7 @@
 	},
 	"DBKU027": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_058",
+		"pass_group_code": "SP_KCH_DBKU_020",
 		"name": "Jalan Satok (Wisma Lim Kim Soon)",
 		"lat": "1.553185",
 		"lng": "110.330067",
@@ -1351,13 +1351,13 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 73,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU028": {},
 	"DBKU029": {},
 	"DBKU030": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_058",
+		"pass_group_code": "SP_KCH_DBKU_020",
 		"name": "Jalan Green (Bernas / Smart Reader)",
 		"lat": "1.549752",
 		"lng": "110.321859",
@@ -1367,7 +1367,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 116,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU031": {},
 	"DBKU032": {
@@ -1386,7 +1386,7 @@
 	},
 	"DBKU033": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_060",
+		"pass_group_code": "SP_KCH_DBKU_045",
 		"name": "Jalan Sungai Maong Ulu (Kesihatan)",
 		"lat": "1.534060",
 		"lng": "110.336547",
@@ -1396,7 +1396,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 200,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU034": {
 		"council_code": "KCH_DBKU",
@@ -1428,7 +1428,7 @@
 	},
 	"DBKU036": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_061",
+		"pass_group_code": "SP_KCH_DBKU_004",
 		"name": "Jalan Rubber (Klinik Harmon Rithom)",
 		"lat": "1.551927",
 		"lng": "110.333911",
@@ -1438,11 +1438,11 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 100,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU037": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_061",
+		"pass_group_code": "SP_KCH_DBKU_004",
 		"name": "Jalan Satok (Hartz Chicken)",
 		"lat": "1.552965",
 		"lng": "110.333767",
@@ -1452,7 +1452,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 189,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU038": {
 		"council_code": "KCH_DBKU",
@@ -1470,7 +1470,7 @@
 	},
 	"DBKU039": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_057",
+		"pass_group_code": "SP_KCH_DBKU_012",
 		"name": "Jalan Kulas (Wisma Ung Hwa Geok) GN",
 		"lat": "1.554477",
 		"lng": "110.336562",
@@ -1480,11 +1480,11 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 100,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU040": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_057",
+		"pass_group_code": "SP_KCH_DBKU_012",
 		"name": "Jalan Kulas (Back Lane / RHB Bank)",
 		"lat": "1.554411",
 		"lng": "110.332291",
@@ -1494,11 +1494,11 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 201,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU041": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_057",
+		"pass_group_code": "SP_KCH_DBKU_012",
 		"name": "Jalan Kulas (Bangunan Tunku Muhammad Al Idrus)",
 		"lat": "1.554298",
 		"lng": "110.335427",
@@ -1508,7 +1508,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 500,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU042": {},
 	"DBKU043": {
@@ -1530,7 +1530,7 @@
 	"DBKU046": {},
 	"DBKU047": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_058",
+		"pass_group_code": "SP_KCH_DBKU_020",
 		"name": "Jalan Green (Bangunan Sandhu)",
 		"lat": "1.551706",
 		"lng": "110.330485",
@@ -1540,12 +1540,12 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 100,
-		"status": "sACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU048": {},
 	"DBKU049": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_062",
+		"pass_group_code": "SP_KCH_DBKU_054",
 		"name": "Jalan Green",
 		"lat": "1.543105",
 		"lng": "110.332510",
@@ -1555,11 +1555,11 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 100,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU050": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_062",
+		"pass_group_code": "SP_KCH_DBKU_054",
 		"name": "Jalan Gold Jade",
 		"lat": "1.545176",
 		"lng": "110.331038",
@@ -1615,7 +1615,7 @@
 	},
 	"DBKU054": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_059",
+		"pass_group_code": "SP_KCH_DBKU_024",
 		"name": "Jalan Semarak (Kedai Adie, PJ Farmasi)",
 		"lat": "1.565479",
 		"lng": "110.318190",
@@ -1625,7 +1625,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 89,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"DBKU055": {
 		"council_code": "KCH_DBKU",
@@ -1643,7 +1643,7 @@
 	},
 	"DBKU056": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_057",
+		"pass_group_code": "SP_KCH_DBKU_012",
 		"name": "Jalan Kulas (RHB Bank / Bangunan Tunku Muhammad Al Idrus / Wisma Ung Hwa Geok)",
 		"lat": "1.554479",
 		"lng": "110.335418",
@@ -1657,7 +1657,7 @@
 	},
 	"DBKU057": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_058",
+		"pass_group_code": "SP_KCH_DBKU_020",
 		"name": "Jalan Green (Bangunan Sandhu / Smart Reader) / Jalan Satok (Wisma Lim Kim Soon)",
 		"lat": "1.552357",
 		"lng": "110.330224",
@@ -1699,7 +1699,7 @@
 	},
 	"DBKU060": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_059",
+		"pass_group_code": "SP_KCH_DBKU_024",
 		"name": "Jalan Semarak (Bemmers / Kedai Adie, PJ Farmasi) / Jalan Matang (Upwell)",
 		"lat": "1.556256",
 		"lng": "110.349021",
@@ -1713,7 +1713,7 @@
 	},
 	"DBKU061": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_060",
+		"pass_group_code": "SP_KCH_DBKU_045",
 		"name": "Jalan Tun Ahmad Zaidi Adruce (Forda) / Jalan Sungai Maong Ulu (Kesihatan)",
 		"lat": "1.536617",
 		"lng": "110.336758",
@@ -1727,7 +1727,7 @@
 	},
 	"DBKU062": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_061",
+		"pass_group_code": "SP_KCH_DBKU_004",
 		"name": "Jalan Satok / Rubber (Hartz Chicken / Klinik Harmon Rithom)",
 		"lat": "1.552173",
 		"lng": "110.335482",
