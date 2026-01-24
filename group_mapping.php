@@ -8,7 +8,6 @@ $list = [
             "SP_KCH_MBKS_088" => ["SP_KCH_MBKS_088", "SP_KCH_MBKS_065", "SP_KCH_MBKS_066"],
             "SP_KCH_MBKS_089" => ["SP_KCH_MBKS_089", "SP_KCH_MBKS_073", "SP_KCH_MBKS_034"],
 
-            "SP_KCH_DBKU_048" => ["SP_KCH_DBKU_048", "SP_KCH_DBKU_042", "SP_KCH_DBKU_043", "SP_KCH_DBKU_054"],
             "SP_KCH_DBKU_052" => ["SP_KCH_DBKU_052", "SP_KCH_DBKU_011", "SP_KCH_DBKU_010", "SP_KCH_DBKU_021", "SP_KCH_DBKU_025"],
             "SP_KCH_DBKU_053" => ["SP_KCH_DBKU_053", "SP_KCH_DBKU_016", "SP_KCH_DBKU_017"],
 
@@ -20,14 +19,12 @@ $list = [
             "SP_KCH_MBKS_024" => ["SP_KCH_MBKS_024", "SP_KCH_MBKS_049"],
             "SP_KCH_MBKS_074" => ["SP_KCH_MBKS_074", "SP_KCH_MBKS_062"],
 
-            "SP_KCH_DBKU_013" => ["SP_KCH_DBKU_013", "SP_KCH_DBKU_026", "SP_KCH_DBKU_022"],
-
             "SP_KCH_MBKS_090" => ["SP_KCH_MBKS_090", "SP_KCH_DBKU_039"],
             "SP_KCH_DBKU_049" => ["SP_KCH_DBKU_049", "SP_KCH_MBKS_045"],
             "SP_KCH_DBKU_050" => ["SP_KCH_DBKU_050", "SP_KCH_MBKS_038"],
             "SP_KCH_DBKU_051" => ["SP_KCH_DBKU_051", "SP_KCH_MBKS_044"],
             "SP_KCH_DBKU_006" => ["SP_KCH_DBKU_006", "SP_KCH_DBKU_056"],
-            
+
             "SP_KCH_DBKU_057" => ["SP_KCH_DBKU_057", "SP_KCH_DBKU_008", "SP_KCH_DBKU_009", "SP_KCH_DBKU_012"],
             "SP_KCH_DBKU_058" => ["SP_KCH_DBKU_058", "SP_KCH_DBKU_020", "SP_KCH_DBKU_031", "SP_KCH_DBKU_034"],
             "SP_KCH_DBKU_059" => ["SP_KCH_DBKU_059", "SP_KCH_DBKU_024", "SP_KCH_DBKU_055"],

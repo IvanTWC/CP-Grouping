@@ -992,7 +992,7 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "ACTIVE"
+        "status": "INACTIVE"
     },
     "SP_KCH_MBKS_061": {
         "council_code": "KCH_MBKS",
@@ -1280,7 +1280,7 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "ACTIVE"
+        "status": "INACTIVE"
     },
     "SP_KCH_MBKS_077": {
         "council_code": "KCH_MBKS",
