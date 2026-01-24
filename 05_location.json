@@ -1027,7 +1027,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 354,
-		"status": "INACTIVE"
+		"status": "ACTIVE"
 	},
 	"DBKU003": {
 		"council_code": "KCH_DBKU",
@@ -1085,7 +1085,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 1027,
-		"status": "INACTIVE"
+		"status": "ACTIVE"
 	},
 	"DBKU009": {
 		"council_code": "KCH_DBKU",
@@ -1169,7 +1169,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 185,
-		"status": "INACTIVE"
+		"status": "ACTIVE"
 	},
 	"DBKU015": {
 		"council_code": "KCH_DBKU",
@@ -1351,7 +1351,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 73,
-		"status": "INACTIVE"
+		"status": "ACTIVE"
 	},
 	"DBKU028": {},
 	"DBKU029": {},
@@ -1367,7 +1367,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 116,
-		"status": "INACTIVE"
+		"status": "ACTIVE"
 	},
 	"DBKU031": {},
 	"DBKU032": {
@@ -1396,7 +1396,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 200,
-		"status": "INACTIVE"
+		"status": "ACTIVE"
 	},
 	"DBKU034": {
 		"council_code": "KCH_DBKU",
@@ -1438,7 +1438,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 100,
-		"status": "INACTIVE"
+		"status": "ACTIVE"
 	},
 	"DBKU037": {
 		"council_code": "KCH_DBKU",
@@ -1452,7 +1452,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 189,
-		"status": "INACTIVE"
+		"status": "ACTIVE"
 	},
 	"DBKU038": {
 		"council_code": "KCH_DBKU",
@@ -1480,7 +1480,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 100,
-		"status": "INACTIVE"
+		"status": "ACTIVE"
 	},
 	"DBKU040": {
 		"council_code": "KCH_DBKU",
@@ -1494,7 +1494,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 201,
-		"status": "INACTIVE"
+		"status": "ACTIVE"
 	},
 	"DBKU041": {
 		"council_code": "KCH_DBKU",
@@ -1508,7 +1508,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 500,
-		"status": "INACTIVE"
+		"status": "ACTIVE"
 	},
 	"DBKU042": {},
 	"DBKU043": {
@@ -1540,7 +1540,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 100,
-		"status": "INACTIVE"
+		"status": "sACTIVE"
 	},
 	"DBKU048": {},
 	"DBKU049": {
@@ -1555,7 +1555,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 100,
-		"status": "INACTIVE"
+		"status": "ACTIVE"
 	},
 	"DBKU050": {
 		"council_code": "KCH_DBKU",
@@ -1625,7 +1625,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 89,
-		"status": "INACTIVE"
+		"status": "ACTIVE"
 	},
 	"DBKU055": {
 		"council_code": "KCH_DBKU",
