@@ -38,6 +38,10 @@
   - MBKS074 -> Removed Coordinates
   - DBKU026 -> Corrected coordinates
 
+- Added new groups:
+  - MBKS080
+  - MBKS081
+
 season_pass_group:
 - Updated status:
   - SP_KCH_MBKS_060 -> Changed to Active
