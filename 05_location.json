@@ -44,7 +44,7 @@
 	"MBKS004": {
 		"council_code": "KCH_MBKS",
 		"pass_group_code": null,
-		"name": "Jalan Tabuan",
+		"name": "Jalan Tabuan (Teochew Association)",
 		"lat": "1.549109",
 		"lng": "110.351533",
 		"contact_number": "",
@@ -152,11 +152,11 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 362,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"MBKS013": {
 		"council_code": "KCH_MBKS",
-		"pass_group_code": "SP_KCH_MBKS_022",
+		"pass_group_code": "SP_KCH_MBKS_020",
 		"name": "Jalan Padungan (Kingwood Inn)",
 		"lat": "1.552061",
 		"lng": "110.36694",
@@ -166,7 +166,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 81,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"MBKS014": {
 		"council_code": "KCH_MBKS",
@@ -408,7 +408,7 @@
 	},
 	"MBKS031": {
 		"council_code": "KCH_MBKS",
-		"pass_group_code": "SP_KCH_MBKS_014",
+		"pass_group_code": "SP_KCH_MBKS_032",
 		"name": "Central Park Commercial Centre Phase 7",
 		"lat": "1.522946",
 		"lng": "110.337177",
@@ -574,7 +574,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 256,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"MBKS045": {
 		"council_code": "KCH_MBKS",
@@ -621,7 +621,7 @@
 	"MBKS048": {},
 	"MBKS049": {
 		"council_code": "KCH_MBKS",
-		"pass_group_code": "SP_KCH_MBKS_071",
+		"pass_group_code": "SP_KCH_MBKS_067",
 		"name": "Queen's Court Commercial Centre",
 		"lat": "1.528572",
 		"lng": "110.361518",
@@ -929,7 +929,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 100,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"MBKS075": {
 		"council_code": "KCH_MBKS",
@@ -948,7 +948,7 @@
 	"MBKS076": {
 		"council_code": "KCH_MBKS",
 		"pass_group_code": "SP_KCH_MBKS_032",
-		"name": "Jalan Tun Ahmad Zaidi Adruce Comercial center / Phase 7",
+		"name": "Jalan Tun Ahmad Zaidi Adruce Comercial center / Phase 7 / 3rd Mile Rock Road",
 		"lat": "1.538427",
 		"lng": "110.337033",
 		"contact_number": "",
@@ -961,7 +961,7 @@
 	},
 	"MBKS077": {
 		"council_code": "KCH_MBKS",
-		"pass_group_code": "SP_KCH_MBKS_080",
+		"pass_group_code": "SP_KCH_MBKS_037",
 		"name": "Lorong Datuk Abang Abdul Rahim 10 (Celcom)",
 		"lat": "1.549929",
 		"lng": "110.369353",
@@ -971,7 +971,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 100,
-		"status": "ACTIVE"
+		"status": "INACTIVE"
 	},
 	"MBKS078": {
 		"council_code": "KCH_MBKS",
@@ -999,6 +999,34 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 100,
+		"status": "ACTIVE"
+	},
+	"MBKS080": {
+		"council_code": "KCH_MBKS",
+		"pass_group_code": "SP_KCH_MBKS_020",
+		"name": "Jalan Chan Bee Kiew / Jalan Padungan (Kingwood Inn)",
+		"lat": "1.551446",
+		"lng": "110.367535",
+		"contact_number": "",
+		"img_arr": [],
+		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility": true,
+		"total_parking_spaces": 443,
+		"status": "ACTIVE"
+	},
+	"MBKS081": {
+		"council_code": "KCH_MBKS",
+		"pass_group_code": "SP_KCH_MBKS_037",
+		"name": "Lorong Datuk Abang Abdul Rahim 10 (Crown Square / Celcom)",
+		"lat": "1.550813",
+		"lng": "110.369574",
+		"contact_number": "",
+		"img_arr": [],
+		"self_parking_rate": false,
+		"allow_compound": true,
+		"customer_visibility": true,
+		"total_parking_spaces": 356,
 		"status": "ACTIVE"
 	},
 	"DBKU001": {

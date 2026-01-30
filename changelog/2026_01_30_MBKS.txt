@@ -1,0 +1,58 @@
+05_location:
+- Updated name: 
+  - MBKS004
+  - MBKS076
+
+- Added new groups:
+  - MBKS080 -> Jalan Chan Bee Kiew / Jalan Padungan (Kingwood Inn)
+  - MBKS081 -> Lorong Datuk Abang Abdul Rahim 10 (Crown Square / Celcom)
+
+- Status changed:
+  - MBKS012 -> Changed to Inactive (grouped to MBKS080)
+  - MBKS013 -> Changed to Inactive (grouped to MBKS080)
+  - MBKS044 -> Changed to Inactive (grouped to MBKS081)
+  - MBKS074 -> Changed to Inactive (grouped to MBKS076)
+  - MBKS077 -> Changed to Inactive (grouped to MBKS081)
+
+- Updated pass_group_code:
+  - MBKS013 -> SP_KCH_MBKS_020
+  - MBKS031 -> SP_KCH_MBKS_032
+  - MBKS049 -> SP_KCH_MBKS_067
+  - MBKS071 -> SP_KCH_MBKS_067
+  - MBKS077 -> SP_KCH_MBKS_037
+
+06_location_coordinates:
+- Updated coordinates: 
+  - MBKS001 -> Corrected Coordinates
+  - MBKS005 -> Corrected Coordinates
+  - MBKS006 -> Corrected Coordinates
+  - MBKS009 -> Corrected Coordinates
+  - MBKS014 -> Corrected Coordinates
+  - MBKS018 -> Corrected Coordinates
+  - MBKS019 -> Corrected Coordinates
+  - MBKS025 -> Corrected Coordinates
+  - MBKS036 -> Corrected Coordinates
+  - MBKS038 -> Corrected Coordinates
+  - MBKS041 -> Corrected Coordinates
+  - MBKS045 -> Corrected Coordinates
+  - MBKS074 -> Removed Coordinates
+  - DBKU026 -> Corrected coordinates
+
+season_pass_group:
+- Updated status:
+  - SP_KCH_MBKS_060 -> Changed to Active
+  - SP_KCH_MBKS_076 -> Changed to Active
+
+gouped_location:
+- Updated coordinates:
+  - SP_KCH_MBKS_009 -> Corrected Coordinates
+  - SP_KCH_MBKS_021 -> Corrected Coordinates
+  - SP_KCH_MBKS_024 -> Corrected Coordinates
+  - SP_KCH_MBKS_029 -> Corrected Coordinates
+  - SP_KCH_MBKS_031 -> Corrected Coordinates
+  - SP_KCH_MBKS_033 -> Corrected Coordinates
+  - SP_KCH_MBKS_058 -> Corrected Coordinates
+  - SP_KCH_MBKS_062 -> Corrected Coordinates
+  - SP_KCH_MBKS_078 -> Corrected Coordinates
+  - SP_KCH_MBKS_079 -> Corrected Coordinates
+  - SP_KCH_MBKS_083 -> Corrected Coordinates

@@ -32,5 +32,8 @@ $list = [
             "SP_KCH_DBKU_024" => ["SP_KCH_DBKU_024", "SP_KCH_DBKU_055"],
             "SP_KCH_DBKU_045" => ["SP_KCH_DBKU_045", "SP_KCH_DBKU_046"],
             "SP_KCH_DBKU_054" => ["SP_KCH_DBKU_048", "SP_KCH_DBKU_042", "SP_KCH_DBKU_043", "SP_KCH_DBKU_054"],
+
+            "SP_KCH_MBKS_020" => ["SP_KCH_MBKS_020", "SP_KCH_MBKS_022"],
+            "SP_KCH_MBKS_037" => ["SP_KCH_MBKS_037", "SP_KCH_MBKS_080"]
         ];
 ?>
