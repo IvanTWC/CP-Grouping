@@ -1,0 +1,11 @@
+06_location_coordinates
+- Updated coordinates
+    - MBKS001 -> Added new coordinates
+    - MBKS004 -> Removed coordinates due to inactive
+    - MBKS009 -> Updated coordinates
+    - MBKS012 -> Removed coordinates due to inactive
+    - MBKS013 -> Removed coordinates due to inactive
+    - MBKS044 -> Removed coordinates due to inactive
+    - MBKS077 -> Removed coordinates due to inactive
+    - MBKS069 -> Updated coordinates
+    - MBKS077 -> Removed coordinates due to inactive
