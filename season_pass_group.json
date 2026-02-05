@@ -2000,7 +2000,7 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "sACTIVE"
+        "status": "ACTIVE"
     },
     "SP_KCH_DBKU_027": {
         "council_code": "KCH_DBKU",
