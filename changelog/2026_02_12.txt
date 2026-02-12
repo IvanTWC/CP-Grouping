@@ -1,0 +1,102 @@
+05_location
+- Updated total parking spaces
+  - MBKS018
+  - MBKS025
+  - MBKS036
+  - MBKS064
+  - MBKS073
+  - MBKS076
+  - DBKU005
+  - DBKU008
+  - DBKU010
+  - DBKU012
+  - DBKU014
+  - DBKU016
+  - DBKU020
+  - DBKU025
+  - DBKU026
+  - DBKU030
+  - DBKU032
+  - DBKU033
+  - DBKU038
+  - DBKU039
+  - DBKU040
+  - DBKU041
+  - DBKU047
+  - DBKU049
+  - DBKU050
+  - DBKU052
+  - DBKU054
+  - DBKU056
+  - DBKU057
+  - DBKU058
+  - DBKU061
+
+
+season_pass_group
+- Updated total parking spaces
+  - SP_KCH_MBKS_001
+  - SP_KCH_MBKS_002
+  - SP_KCH_MBKS_003
+  - SP_KCH_MBKS_005
+  - SP_KCH_MBKS_006
+  - SP_KCH_MBKS_007
+  - SP_KCH_MBKS_016
+  - SP_KCH_MBKS_024
+  - SP_KCH_MBKS_036
+  - SP_KCH_MBKS_037
+  - SP_KCH_MBKS_048
+  - SP_KCH_MBKS_052
+  - SP_KCH_MBKS_062
+  - SP_KCH_MBKS_069
+  - SP_KCH_MBKS_072
+  - SP_KCH_MBKS_074
+  - SP_KCH_MBKS_078
+  - SP_KCH_MBKS_083
+  - SP_KCH_MBKS_084
+  - SP_KCH_MBKS_085
+  - SP_KCH_MBKS_086
+  - SP_KCH_MBKS_087
+  - SP_KCH_MBKS_088
+  - SP_KCH_DBKU_004
+  - SP_KCH_DBKU_006
+  - SP_KCH_DBKU_007
+  - SP_KCH_DBKU_008
+  - SP_KCH_DBKU_009
+  - SP_KCH_DBKU_012
+  - SP_KCH_DBKU_013
+  - SP_KCH_DBKU_015
+  - SP_KCH_DBKU_018
+  - SP_KCH_DBKU_020
+  - SP_KCH_DBKU_022
+  - SP_KCH_DBKU_023
+  - SP_KCH_DBKU_024
+  - SP_KCH_DBKU_027
+  - SP_KCH_DBKU_028
+  - SP_KCH_DBKU_029
+  - SP_KCH_DBKU_030
+  - SP_KCH_DBKU_031
+  - SP_KCH_DBKU_033
+  - SP_KCH_DBKU_034
+  - SP_KCH_DBKU_045
+  - SP_KCH_DBKU_046
+  - SP_KCH_DBKU_047
+  - SP_KCH_DBKU_048
+  - SP_KCH_DBKU_049
+  - SP_KCH_DBKU_050
+  - SP_KCH_DBKU_052
+  - SP_KCH_DBKU_054
+  - SP_KCH_DBKU_056
+  
+- Changed status
+  - SP_KCH_MBKS_006 -> INACTIVE, split into smaller locations
+
+- Added new season pass
+  - SP_KCH_MBKS_091
+  - SP_KCH_MBKS_092
+  - SP_KCH_MBKS_093
+
+
+group_location
+- Updated coordinate
+  - SP_KCH_DBKU_033

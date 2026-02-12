@@ -235,7 +235,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 90,
+		"total_parking_spaces": 65,
 		"status": "ACTIVE"
 	},
 	"MBKS019": {
@@ -333,7 +333,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 365,
+		"total_parking_spaces": 479,
 		"status": "ACTIVE"
 	},
 	"MBKS026": {
@@ -474,7 +474,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 371,
+		"total_parking_spaces": 610,
 		"status": "ACTIVE"
 	},
 	"MBKS037": {
@@ -801,7 +801,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 1696,
+		"total_parking_spaces": 2344,
 		"status": "ACTIVE"
 	},
 	"MBKS065": {
@@ -914,7 +914,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 721,
+		"total_parking_spaces": 262,
 		"status": "ACTIVE"
 	},
 	"MBKS074": {
@@ -956,7 +956,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 201,
+		"total_parking_spaces": 353,
 		"status": "ACTIVE"
 	},
 	"MBKS077": {
@@ -1096,7 +1096,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 1198,
+		"total_parking_spaces": 433,
 		"status": "ACTIVE"
 	},
 	"DBKU006": {},
@@ -1112,7 +1112,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 1027,
+		"total_parking_spaces": 961,
 		"status": "INACTIVE"
 	},
 	"DBKU009": {
@@ -1140,7 +1140,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 189,
+		"total_parking_spaces": 308,
 		"status": "ACTIVE"
 	},
 	"DBKU011": {
@@ -1168,7 +1168,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 398,
+		"total_parking_spaces": 333,
 		"status": "ACTIVE"
 	},
 	"DBKU013": {
@@ -1196,7 +1196,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 185,
+		"total_parking_spaces": 135,
 		"status": "INACTIVE"
 	},
 	"DBKU015": {
@@ -1224,7 +1224,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 145,
+		"total_parking_spaces": 48,
 		"status": "ACTIVE"
 	},
 	"DBKU017": {
@@ -1280,7 +1280,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 999,
+		"total_parking_spaces": 121,
 		"status": "ACTIVE"
 	},
 	"DBKU021": {
@@ -1350,7 +1350,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 999,
+		"total_parking_spaces": 37,
 		"status": "ACTIVE"
 	},
 	"DBKU026": {
@@ -1364,7 +1364,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 999,
+		"total_parking_spaces": 19,
 		"status": "ACTIVE"
 	},
 	"DBKU027": {
@@ -1394,7 +1394,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 116,
+		"total_parking_spaces": 71,
 		"status": "INACTIVE"
 	},
 	"DBKU031": {},
@@ -1409,7 +1409,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 200,
+		"total_parking_spaces": 65,
 		"status": "ACTIVE"
 	},
 	"DBKU033": {
@@ -1423,7 +1423,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 200,
+		"total_parking_spaces": 22,
 		"status": "INACTIVE"
 	},
 	"DBKU034": {
@@ -1493,7 +1493,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 189,
+		"total_parking_spaces": 125,
 		"status": "ACTIVE"
 	},
 	"DBKU039": {
@@ -1507,7 +1507,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 100,
+		"total_parking_spaces": 39,
 		"status": "INACTIVE"
 	},
 	"DBKU040": {
@@ -1521,7 +1521,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 201,
+		"total_parking_spaces": 79,
 		"status": "INACTIVE"
 	},
 	"DBKU041": {
@@ -1535,7 +1535,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 500,
+		"total_parking_spaces": 83,
 		"status": "INACTIVE"
 	},
 	"DBKU042": {},
@@ -1567,7 +1567,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 100,
+		"total_parking_spaces": 45,
 		"status": "INACTIVE"
 	},
 	"DBKU048": {},
@@ -1582,7 +1582,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 100,
+		"total_parking_spaces": 150,
 		"status": "INACTIVE"
 	},
 	"DBKU050": {
@@ -1596,7 +1596,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 100,
+		"total_parking_spaces": 71,
 		"status": "INACTIVE"
 	},
 	"DBKU051": {
@@ -1624,7 +1624,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 249,
+		"total_parking_spaces": 66,
 		"status": "ACTIVE"
 	},
 	"DBKU053": {
@@ -1652,7 +1652,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 89,
+		"total_parking_spaces": 46,
 		"status": "INACTIVE"
 	},
 	"DBKU055": {
@@ -1680,7 +1680,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 801,
+		"total_parking_spaces": 201,
 		"status": "ACTIVE"
 	},
 	"DBKU057": {
@@ -1694,7 +1694,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 289,
+		"total_parking_spaces": 189,
 		"status": "ACTIVE"
 	},
 	"DBKU058": {
@@ -1708,7 +1708,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 23,
+		"total_parking_spaces": 28,
 		"status": "ACTIVE"
 	},
 	"DBKU059": {
@@ -1750,7 +1750,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 385,
+		"total_parking_spaces": 157,
 		"status": "ACTIVE"
 	},
 	"DBKU062": {
