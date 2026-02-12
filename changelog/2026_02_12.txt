@@ -100,3 +100,8 @@ season_pass_group
 group_location
 - Updated coordinate
   - SP_KCH_DBKU_033
+
+- Added new locations
+  - SP_KCH_MBKS_091
+  - SP_KCH_MBKS_092
+  - SP_KCH_MBKS_093
