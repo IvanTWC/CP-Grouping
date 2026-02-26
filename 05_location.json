@@ -1601,7 +1601,7 @@
 	},
 	"DBKU051": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": null,
+		"pass_group_code": "SP_KCH_DBKU_004",
 		"name": "Kulas / Satok (Wisma Satok)",
 		"lat": "1.553376",
 		"lng": "110.335233",

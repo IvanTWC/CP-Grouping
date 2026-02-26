@@ -1,0 +1,3 @@
+05_location
+- Updated pass_group_code
+  - DBKU051 -> Linked to SP_KCH_DBKU_004, allocated for non season pass area
