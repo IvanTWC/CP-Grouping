@@ -1103,7 +1103,7 @@
 	"DBKU007": {},
 	"DBKU008": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_004",
+		"pass_group_code": "SP_KCH_DBKU_052",
 		"name": "Jalan Satok / Rubber",
 		"lat": "1.552229",
 		"lng": "110.334130",
@@ -1131,7 +1131,7 @@
 	},
 	"DBKU010": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_013",
+		"pass_group_code": "SP_KCH_DBKU_052",
 		"name": "Jalan Satok (Satok Parade / Bangunan PTBS / Pollarwood / Zecon)",
 		"lat": "1.553904",
 		"lng": "110.328834",
@@ -1369,7 +1369,7 @@
 	},
 	"DBKU027": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_020",
+		"pass_group_code": "SP_KCH_DBKU_052",
 		"name": "Jalan Satok (Wisma Lim Kim Soon)",
 		"lat": "1.553185",
 		"lng": "110.330067",
@@ -1385,7 +1385,7 @@
 	"DBKU029": {},
 	"DBKU030": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_020",
+		"pass_group_code": "SP_KCH_DBKU_052",
 		"name": "Jalan Green (Bernas / Smart Reader)",
 		"lat": "1.549752",
 		"lng": "110.321859",
@@ -1456,7 +1456,7 @@
 	},
 	"DBKU036": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_004",
+		"pass_group_code": "SP_KCH_DBKU_052",
 		"name": "Jalan Rubber (Klinik Harmon Rithom)",
 		"lat": "1.551927",
 		"lng": "110.333911",
@@ -1470,7 +1470,7 @@
 	},
 	"DBKU037": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_004",
+		"pass_group_code": "SP_KCH_DBKU_052",
 		"name": "Jalan Satok (Hartz Chicken)",
 		"lat": "1.552965",
 		"lng": "110.333767",
@@ -1484,7 +1484,7 @@
 	},
 	"DBKU038": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_007",
+		"pass_group_code": "SP_KCH_DBKU_052",
 		"name": "Jalan Satok Kulas / Flyover",
 		"lat": "1.553063",
 		"lng": "110.338221",
@@ -1498,7 +1498,7 @@
 	},
 	"DBKU039": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_012",
+		"pass_group_code": "SP_KCH_DBKU_052",
 		"name": "Jalan Kulas (Wisma Ung Hwa Geok) GN",
 		"lat": "1.554477",
 		"lng": "110.336562",
@@ -1512,7 +1512,7 @@
 	},
 	"DBKU040": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_012",
+		"pass_group_code": "SP_KCH_DBKU_052",
 		"name": "Jalan Kulas (Back Lane / RHB Bank)",
 		"lat": "1.554411",
 		"lng": "110.332291",
@@ -1526,7 +1526,7 @@
 	},
 	"DBKU041": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_012",
+		"pass_group_code": "SP_KCH_DBKU_052",
 		"name": "Jalan Kulas (Bangunan Tunku Muhammad Al Idrus)",
 		"lat": "1.554298",
 		"lng": "110.335427",
@@ -1558,7 +1558,7 @@
 	"DBKU046": {},
 	"DBKU047": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_020",
+		"pass_group_code": "SP_KCH_DBKU_052",
 		"name": "Jalan Green (Bangunan Sandhu)",
 		"lat": "1.551706",
 		"lng": "110.330485",
@@ -1601,7 +1601,7 @@
 	},
 	"DBKU051": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_004",
+		"pass_group_code": "SP_KCH_DBKU_052",
 		"name": "Kulas / Satok (Wisma Satok)",
 		"lat": "1.553376",
 		"lng": "110.335233",
@@ -1615,7 +1615,7 @@
 	},
 	"DBKU052": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_015",
+		"pass_group_code": "SP_KCH_DBKU_052",
 		"name": "Jalan Tun Ahmad Zaidi Adruce (Regalis Court / Perodua)",
 		"lat": "1.552029",
 		"lng": "110.337487",
@@ -1671,7 +1671,7 @@
 	},
 	"DBKU056": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_012",
+		"pass_group_code": "SP_KCH_DBKU_052",
 		"name": "Jalan Kulas (RHB Bank / Bangunan Tunku Muhammad Al Idrus / Wisma Ung Hwa Geok)",
 		"lat": "1.554479",
 		"lng": "110.335418",
@@ -1685,7 +1685,7 @@
 	},
 	"DBKU057": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_020",
+		"pass_group_code": "SP_KCH_DBKU_052",
 		"name": "Jalan Green (Bangunan Sandhu / Smart Reader) / Jalan Satok (Wisma Lim Kim Soon)",
 		"lat": "1.552357",
 		"lng": "110.330224",
@@ -1755,7 +1755,7 @@
 	},
 	"DBKU062": {
 		"council_code": "KCH_DBKU",
-		"pass_group_code": "SP_KCH_DBKU_004",
+		"pass_group_code": "SP_KCH_DBKU_052",
 		"name": "Jalan Satok / Rubber (Hartz Chicken / Klinik Harmon Rithom)",
 		"lat": "1.552173",
 		"lng": "110.335482",
