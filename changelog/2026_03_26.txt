@@ -1,0 +1,8 @@
+05_location
+- Updated pass_group_code
+  - Removed tmp group
+
+
+season_pass_group
+- Updated season pass
+  - SP_KCH_DBKU_032 - Changed status to "Active" and updated parking lot number

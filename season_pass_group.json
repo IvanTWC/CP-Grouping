@@ -2152,9 +2152,9 @@
         "lat": "1.544351",
         "lng": "110.332524",
         "tax_rate": 0.06,
-        "total_parking_spaces": 100,
-        "max_pass_offline": 50,
-        "max_pass_online": 50,
+        "total_parking_spaces": 97,
+        "max_pass_offline": 48,
+        "max_pass_online": 48,
         "full_price": 40.0,
         "half_price": 20.0,
         "transfer_fee": 5.0,
@@ -2162,7 +2162,7 @@
         "date_allow_purchase_str": "25th",
         "date_allow_purchase_half_price": "15",
         "date_allow_refund": "15",
-        "status": "INACTIVE"
+        "status": "ACTIVE"
     },
     "SP_KCH_DBKU_033": {
         "council_code": "KCH_DBKU",
