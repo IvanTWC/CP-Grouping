@@ -1,0 +1,25 @@
+05_location
+- Updated name
+  - DBKU041
+  - DBKU056
+
+06_location_coordinates
+- Updated coordinates
+  - MBKS002
+  - MBKS006
+
+- Updated name
+  - DBKU041
+  - DBKU056
+
+season_pass_group
+- Updated name
+  - SP_KCH_DBKU_012
+  
+group_location
+- Updated name
+  - SP_KCH_DBKU_012
+
+- Updated coordinates
+  - SP_KCH_MBKS_086
+  - SP_KCH_MBKS_029
