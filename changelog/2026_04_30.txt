@@ -1,0 +1,2 @@
+season_pass_group_location
+- Updated season pass online limit (+50 for all location)
