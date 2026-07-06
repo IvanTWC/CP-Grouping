@@ -1,2 +1,13 @@
 05_location
 - Updated exact parking lot number
+  - MBKS066
+  - MBKS021
+  - DBKU024
+  - MBKS065
+  - DBKU021
+
+season_pass_group
+- Updated total_parking_spaces
+  - MBKS066
+  - MBKS021
+  - DBKU024
