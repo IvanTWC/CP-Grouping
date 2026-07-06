@@ -277,7 +277,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 14,
+		"total_parking_spaces": 310,
 		"status": "ACTIVE"
 	},
 	"MBKS022": {
@@ -815,7 +815,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 999,
+		"total_parking_spaces": 61,
 		"status": "ACTIVE"
 	},
 	"MBKS066": {
@@ -829,7 +829,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 999,
+		"total_parking_spaces": 59,
 		"status": "ACTIVE"
 	},
 	"MBKS067": {
@@ -1294,7 +1294,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 999,
+		"total_parking_spaces": 11,
 		"status": "ACTIVE"
 	},
 	"DBKU022": {
@@ -1336,7 +1336,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 999,
+		"total_parking_spaces": 174,
 		"status": "ACTIVE"
 	},
 	"DBKU025": {
