@@ -1,0 +1,11 @@
+05_location
+- Updated exact parking lot number
+  - MBKS029
+  - MBKS038
+
+season_pass_group
+- Updated total_parking_spaces
+  - SP_KCH_MBKS_011
+  - SP_KCH_MBKS_033
+
+- Added 200 to all max_pass_online

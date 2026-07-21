@@ -391,7 +391,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 1012,
+		"total_parking_spaces": 322,
 		"status": "ACTIVE"
 	},
 	"MBKS030": {
@@ -505,7 +505,7 @@
 		"self_parking_rate": false,
 		"allow_compound": true,
 		"customer_visibility": true,
-		"total_parking_spaces": 249,
+		"total_parking_spaces": 690,
 		"status": "ACTIVE"
 	},
 	"MBKS039": {
