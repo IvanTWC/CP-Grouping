@@ -11,6 +11,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 283,
+		"occupancy_warning_rate": 50,
 		"status": "ACTIVE"
 	},
 	"MBKS002": {
@@ -81,6 +82,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 868,
+		"occupancy_warning_rate": 50,
 		"status": "ACTIVE"
 	},
 	"MBKS007": {
@@ -475,6 +477,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 610,
+		"occupancy_warning_rate": 80,
 		"status": "ACTIVE"
 	},
 	"MBKS037": {
@@ -616,6 +619,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 686,
+		"occupancy_warning_rate": 80,
 		"status": "ACTIVE"
 	},
 	"MBKS048": {},
@@ -688,6 +692,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 692,
+		"occupancy_warning_rate": 80,
 		"status": "ACTIVE"
 	},
 	"MBKS055": {
@@ -702,6 +707,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 648,
+		"occupancy_warning_rate": 80,
 		"status": "ACTIVE"
 	},
 	"MBKS056": {
@@ -716,6 +722,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 672,
+		"occupancy_warning_rate": 80,
 		"status": "ACTIVE"
 	},
 	"MBKS057": {
@@ -730,6 +737,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 477,
+		"occupancy_warning_rate": 80,
 		"status": "ACTIVE"
 	},
 	"MBKS058": {
@@ -744,6 +752,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 1214,
+		"occupancy_warning_rate": 80,
 		"status": "ACTIVE"
 	},
 	"MBKS059": {
@@ -786,6 +795,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 1386,
+		"occupancy_warning_rate": 80,
 		"status": "ACTIVE"
 	},
 	"MBKS062": {},
@@ -802,6 +812,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 2344,
+		"occupancy_warning_rate": 80,
 		"status": "ACTIVE"
 	},
 	"MBKS065": {
@@ -1611,6 +1622,7 @@
 		"allow_compound": true,
 		"customer_visibility": true,
 		"total_parking_spaces": 313,
+		"occupancy_warning_rate": 80,
 		"status": "ACTIVE"
 	},
 	"DBKU052": {
