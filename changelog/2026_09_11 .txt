@@ -1,0 +1,6 @@
+05_location
+- Updated tmp pass_group_code
+    - MBKS030 - SP_KCH_MBKS_015 -> SP_KCH_MBKS_011
+group_maping.php
+- Added tmp group
+    - SP_KCH_MBKS_011 [SP_KCH_MBKS_011, SP_KCH_MBKS_015]

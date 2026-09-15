@@ -35,6 +35,9 @@ $list = [
 
             "SP_KCH_MBKS_020" => ["SP_KCH_MBKS_020", "SP_KCH_MBKS_022"],
             "SP_KCH_MBKS_037" => ["SP_KCH_MBKS_037", "SP_KCH_MBKS_080"],
-            "SP_KCH_MBKS_091" => ["SP_KCH_MBKS_091", "SP_KCH_MBKS_092", "SP_KCH_MBKS_093", "SP_KCH_MBKS_006"]
+            "SP_KCH_MBKS_091" => ["SP_KCH_MBKS_091", "SP_KCH_MBKS_092", "SP_KCH_MBKS_093", "SP_KCH_MBKS_006"],
+
+
+            "SP_KCH_MBKS_011" => ["SP_KCH_MBKS_011", "SP_KCH_MBKS_015"], // Tmp grouping, remove after bike are enough
         ];
 ?>
