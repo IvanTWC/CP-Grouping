@@ -1,0 +1,17 @@
+05_location
+- Updated total parking lot number
+
+06_location_coordinates
+- Updated coordinates
+    - MBKS001
+    - MBKS010
+    - MBKS017
+    - MBKS069
+
+group_location.php
+- Updated coordinates
+    - SP_KCH_MBKS_023
+    - SP_KCH_MBKS_088
+
+season_pass_group
+- Updated total parking lot number
